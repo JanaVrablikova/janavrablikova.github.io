@@ -5,9 +5,9 @@
 layout: page
 ---
 
-I am a post-doctoral researcher at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) in the [Aromath](https://team.inria.fr/aromath/) team. My research interests lie in the field of computational algebraic geometry, particularly the solution of structured polynomial equations arising from problems in computer vision and robotics.
+I am a postdoctoral researcher in the [Aromath](https://team.inria.fr/aromath/) team at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur). My research interests lie in computational algebraic geometry, with a focus on solving structured systems of polynomial equations that arise from problems in computer vision and robotics.
 
-In February 2025 I finished my PhD at the [Institute of Applied Geometry](https://ag.jku.at/) at [Johannes Kepler University](https://www.jku.at/) in Linz under the supervision of [Bert Jüttler](https://ag.jku.at/agpeople.html#jue). My research focused on envelopes of generalised planar swept volumes and their approximation by circular arcs. 
+I finished my PhD in February 2025 at the [Institute of Applied Geometry](https://ag.jku.at/) at [Johannes Kepler University](https://www.jku.at/) in Linz, under the supervision of [Bert Jüttler](https://ag.jku.at/agpeople.html#jue). My research focused on envelopes of generalised planar swept volumes and their approximation by circular arcs. 
 
 &nbsp;
 &nbsp;

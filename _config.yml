@@ -36,8 +36,7 @@ plugins:
   - jekyll-feed
 
 markdown: kramdown
-highlighter: rouge
-permalink: /:title/
+kramdown: GFM
 
 # GitHub
 repository: mathjax/mathjax

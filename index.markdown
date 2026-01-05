@@ -5,15 +5,8 @@
 layout: page
 ---
 
-# About
+I am a post-doctoral researcher at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) in the [Aromath](https://team.inria.fr/aromath/) team. My research interests lie in the field of computational algebraic geometry, particularly the solution of structured polynomial equations arising from problems in computer vision and robotics.
 
-I am a post-doctoral researcher at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) in the [Aromath](https://team.inria.fr/aromath/) team. My research interests are computational algebraic geometry, in particular solving structured polynomial equations motivated by problems arising in computer vision and robotics.
-
-Previously, I was a PhD student at the [Institute of Applied Geometry](https://ag.jku.at/) at [Johannes Kepler University](https://www.jku.at/) in Linz. Under the supervision of [Bert Jüttler](https://ag.jku.at/agpeople.html#jue), I focused on envelopes of generalised planar swept volumes and their approximation by circular arcs. 
-
-# Contacts
-
-jana.vrablikova at inria.fr
-jana.vrablikova at jku.at
+In February 2025 I finished my PhD at the [Institute of Applied Geometry](https://ag.jku.at/) at [Johannes Kepler University](https://www.jku.at/) in Linz under the supervision of [Bert Jüttler](https://ag.jku.at/agpeople.html#jue). My research focused on envelopes of generalised planar swept volumes and their approximation by circular arcs. 
 
 [ArXiv](http://arxiv.org/a/vrablikova_j_1) [ORCID](https://orcid.org/0000-0002-3008-9275) 

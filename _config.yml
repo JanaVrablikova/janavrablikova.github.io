@@ -35,8 +35,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
-kramdown:
-  math_engine: mathjax
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# GitHub
+repository: mathjax/mathjax
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -6,7 +6,7 @@ permalink: /cv/
 
 ### Positions
 
-05/2025 - now: postdoctoral researcher at [Inria Centre at Université Côte d’Azur]()
+05/2025 - now: postdoctoral researcher at [Inria Centre at Université Côte d’Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur)
 
 03/2025 - 04/2025: postdoctoral researcher at [Johannes Kepler University](https://www.jku.at/) (on leave until May 2026)
 

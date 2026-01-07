@@ -8,7 +8,7 @@ permalink: /cv/
 
 05/2025 - now: postdoctoral researcher at [Inria Centre at Université Côte d’Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur)
 
-03/2025 - 04/2025: postdoctoral researcher at [Johannes Kepler University](https://www.jku.at/) (on leave until May 2026)
+03/2025 - now: postdoctoral researcher at [Johannes Kepler University](https://www.jku.at/) (on leave until May 2026)
 
 03/2022 - 02/2025: research and university assistant at [Johannes Kepler University](https://www.jku.at/)
 
@@ -33,11 +33,12 @@ permalink: /cv/
 &nbsp;
 
 #### **Other activities**
+* since 2024: member of the executive committee of Austrian Association of Women in Mathematics ([A2WiM](https://sites.google.com/view/a2wim/home))
 
-2025: co--organizng  [Fifth Austrian Day of Women in Mathematics](https://www.tuwien.at/en/mg/femma/adwim-2025)
+* co-supervising bachelor and master students 
 
-2024, 2025: lecturer for [project week in applied mathatics](https://www.projektwoche.jku.at/)
+* 2025: co-organizng  [Fifth Austrian Day of Women in Mathematics](https://www.tuwien.at/en/mg/femma/adwim-2025)
 
-2022, 2023: co--supervision of Bachelor and Master students
+* 2024, 2025: lecturer for [project week in applied mathatics](https://www.projektwoche.jku.at/)
 
-2019 - 2022: organizing [Spring and Autumn Schools of Algebra](https://www.karlin.mff.cuni.cz/~skolavprirode/)
+* 2019 - 2022: organizing [Spring and Autumn Schools of Algebra](https://www.karlin.mff.cuni.cz/~skolavprirode/)

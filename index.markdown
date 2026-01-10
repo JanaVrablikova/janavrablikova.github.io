@@ -5,7 +5,7 @@
 layout: page
 ---
 
-![image info](cat.jpg)
+![image info](cat.jpg){width=10}
 
 I am a postdoctoral researcher in the [Aromath](https://team.inria.fr/aromath/) team at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur). My research interests lie in computational algebraic geometry, with a focus on solving structured systems of polynomial equations that arise from problems in computer vision and robotics.
 

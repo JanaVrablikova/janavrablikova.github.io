@@ -4,7 +4,14 @@ title: Teaching
 permalink: /teaching/
 ---
 
-#### **JKU**
+#### **Current**
+
+&nbsp;
+&nbsp;
+
+#### **Past**
+
+##### **JKU**
 
 WS 2024: exercises for Computational Geometry
 
@@ -14,7 +21,7 @@ SS 2024: seminar Geometrikum
 
 &nbsp;
 
-#### **Charles University**
+##### **Charles University**
 
 WS 2020, 2021: exercises for Geometry 1
 
@@ -24,6 +31,6 @@ SS 2020: exercises for Algebraic Curves
 
 &nbsp;
 
-#### **Czech Technical University**
+##### **Czech Technical University**
 
 WS 2019, 2021: exercises for Linear Algebra

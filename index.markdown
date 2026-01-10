@@ -5,11 +5,12 @@
 layout: page
 ---
 
-<img src="cat.jpg" width="200"></td> 
+<img src="cat.jpg" width="200">
 
 I am a postdoctoral researcher in the [Aromath](https://team.inria.fr/aromath) team at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur). My research interests lie in computational algebraic geometry, with a focus on solving structured systems of polynomial equations that arise from problems in computer vision and robotics. 
 
 I finished my PhD in February 2025 at the [Institute of Applied Geometry](https://ag.jku.at/) at [Johannes Kepler University](https://www.jku.at/) in Linz, under the supervision of [Bert Jüttler](https://ag.jku.at/agpeople.html#jue). My research focused on envelopes of generalised planar swept volumes and their approximation by circular arcs.
+
 <!--<div>
     <table border="0">
      <tr>
@@ -24,8 +25,7 @@ I finished my PhD in February 2025 at the [Institute of Applied Geometry](https:
         </td>
      </tr>
     </table>
-    </div>
--->
+    </div>-->
 
 $x_0 \leq 0$
 

@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
-name: Curriculum vitæ
+longname: Curriculum vitæ
 ---
 
 #### **Positions**

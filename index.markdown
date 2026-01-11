@@ -25,9 +25,9 @@ I finished my PhD in February 2025 at the [Institute of Applied Geometry](https:
     </table>
     </div>-->
 
-$x_0 \leq 0$
+<!--$x_0 \leq 0$
 
 &nbsp;
 &nbsp;
 
-[ArXiv](http://arxiv.org/a/vrablikova_j_1), [ORCID](https://orcid.org/0000-0002-3008-9275) 
+[ArXiv](http://arxiv.org/a/vrablikova_j_1), [ORCID](https://orcid.org/0000-0002-3008-9275) -->

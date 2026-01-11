@@ -17,17 +17,23 @@
     <div class="wrapper">
       {%- include header.html -%}
 
-      <section>
-
-      {{ content }}
-
+    <style>
+      section.left{float:left;}
+    </style>
+    <section class="indent-1">
+      <!-- Section 1 --> 
+      <section class="left">
+        <div> {{content}} </div>
+        <div>Some more</div>
       </section>
-      
+
+      <!-- Section 2 -->
       <section>
-
-      {{ content }}
-
+        <div>Some content</div>
+        <div>Some more</div>
       </section>
+    </section>
+
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>

@@ -24,3 +24,9 @@ longname: Publications
 
 **Discrete Connections on Triangle Meshes**, In Proceeding of Slovak-Czech Conference on Geometry and Graphics 2019, pages 197-202, Plzeň, 2019.
 -->
+
+#### **Theses**
+
+**Arc spline approximation of envelopes**, PhD thesis, Johannes Kepler University Linz, 2025
+
+**Envelopes of implicit surfaces**, Master’s thesis, Charles University, 2022

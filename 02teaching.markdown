@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-name: Teaching
+longname: Teaching
 ---
 
 #### **Current:**

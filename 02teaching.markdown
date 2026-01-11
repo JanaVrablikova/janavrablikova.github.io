@@ -4,33 +4,33 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### **Current**
+### **Current:**
 
 &nbsp;
 &nbsp;
 
-### **Past**
+### **Past:**
 
-**JKU**
+**Johannes Kepler University**
 
-* WS 2024: exercises for Computational Geometry
+* WS 2024: **Computational Geometry**, teaching assistant
 
-* WS 2024: exercises for Introduction to Geometry
+* WS 2024: **Introduction to Geometry**, teaching assistant
 
-* SS 2024: seminar Geometrikum
+* SS 2024: **Geometrikum**, teaching assistant
 
 &nbsp;
 
 **Charles University**
 
-* WS 2020, 2021: exercises for Geometry 1
+* WS 2020, 2021: **Geometry 1**, teaching assistant
 
-* WS 2020, 2021: exercises for Geometric Modeling
+* WS 2020, 2021: **Geometric Modeling**, teaching assistant
 
-* SS 2020: exercises for Algebraic Curves
+* SS 2020: **Algebraic Curves**, teaching assistant
 
 &nbsp;
 
 **Czech Technical University**
 
-* WS 2019, 2021: exercises for Linear Algebra
+* WS 2019, 2021: **Linear Algebra**, teaching assistant

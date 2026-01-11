@@ -4,12 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### **Current:**
+#### **Current:**
 
 &nbsp;
 &nbsp;
 
-### **Past:**
+#### **Past:**
 
 **Johannes Kepler University**
 

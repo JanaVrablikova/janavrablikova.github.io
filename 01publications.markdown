@@ -30,6 +30,6 @@ longname: Publications
 
 #### **Theses**
 
-**Arc spline approximation of envelopes**, PhD thesis, Johannes Kepler University Linz, 2025. [[link]](https://epub.jku.at/urn/urn:nbn:at:at-ubl:1-85280)
+**Arc spline approximation of envelopes**, PhD thesis, Johannes Kepler University, 2025. [[link]](https://epub.jku.at/urn/urn:nbn:at:at-ubl:1-85280)
 
 **Envelopes of implicit surfaces**, Master’s thesis, Charles University, 2022. [[link]](https://dspace.cuni.cz/handle/20.500.11956/171858)

@@ -17,28 +17,28 @@ longname: Curriculum vitæ
 
 #### **Internships**
 
-07/2021 - 10/2021: internship at [CIIRC at Czech Technical University](https://www.ciirc.cvut.cz/cs/), under the supervision of [T. Pajdla](https://people.ciirc.cvut.cz/~pajdla/)
+07/2021 - 10/2021: internship at [CIIRC at Czech Technical University](https://www.ciirc.cvut.cz/cs/) (supervisor [T. Pajdla](https://people.ciirc.cvut.cz/~pajdla/))
 
-03/2021 - 06/2021: Erasmus internship at [University of Innsbruck](https://www.uibk.ac.at/de/), under the supervision of [H.-P. Schröcker](https://www.uibk.ac.at/de/geometrie-vermessung/team/schroecker/)
+03/2021 - 06/2021: Erasmus internship at [University of Innsbruck](https://www.uibk.ac.at/de/) (supervisor [H.-P. Schröcker](https://www.uibk.ac.at/de/geometrie-vermessung/team/schroecker/))
 
 &nbsp;
 
 #### **Education**
 
-03/2022 - 02/2025: Dr. rer. nat in Mathematics at [Johannes Kepler University](https://www.jku.at/), (supervisor of [B. Jüttler](https://ag.jku.at/agpeople.html#jue))
+03/2022 - 02/2025: Dr. rer. nat in Mathematics at [Johannes Kepler University](https://www.jku.at/) (supervisor of [B. Jüttler](https://ag.jku.at/agpeople.html#jue))
 
-10/2019 - 02/2022: MSc. in Mathematics for Information Technologies at [Charles University](https://cuni.cz/UKEN-1.html), (supervisor of [Z. Šír](https://www.karlin.mff.cuni.cz/~sir/))
+10/2019 - 02/2022: MSc. in Mathematics for Information Technologies at [Charles University](https://cuni.cz/UKEN-1.html) (supervisor of [Z. Šír](https://www.karlin.mff.cuni.cz/~sir/))
 
-10/2016 - 06/2019: BSc. in Mathematics for Information Technologies at [Charles University](https://cuni.cz/UKEN-1.html), (supervisor of [Z. Šír](https://www.karlin.mff.cuni.cz/~sir/))
+10/2016 - 06/2019: BSc. in Mathematics for Information Technologies at [Charles University](https://cuni.cz/UKEN-1.html) (supervisor of [Z. Šír](https://www.karlin.mff.cuni.cz/~sir/))
 
 &nbsp;
 
 #### **Other activities**
-* since 2024: member of the executive committee of Austrian Association of Women in Mathematics ([A2WiM](https://sites.google.com/view/a2wim/home))
+* member of the executive committee of Austrian Association of Women in Mathematics ([A2WiM](https://sites.google.com/view/a2wim/home))
 
-* [Geometrikum](https://www.ag.jku.at/geometrikum.shtml)
+* contributing to [Geometrikum](https://www.ag.jku.at/geometrikum.shtml), a geometric exhibitions at the [Institute of Applied Geometry, JKU](https://www.ag.jku.at)
 
-* co-supervising bachelor and master students
+* co-supervising bachelor and master students: V. Ortler, J. Mayr
 
 * 2025: co-organizng  [Fifth Austrian Day of Women in Mathematics](https://www.tuwien.at/en/mg/femma/adwim-2025)
 

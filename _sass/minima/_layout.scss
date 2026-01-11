@@ -209,7 +209,8 @@
 }
 
 .page-heading {
-  @include relative-font-size(1);
+  @include relative-font-size(0.8);
+  font-weight: 200;
 }
 
 .post-list-heading {

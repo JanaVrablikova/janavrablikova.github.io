@@ -5,29 +5,9 @@
 layout: homepage
 ---
 
-I am a postdoctoral researcher in the [Aromath](https://team.inria.fr/aromath) team at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur). My research interests lie in computational algebraic geometry, with a focus on solving structured systems of polynomial equations that arise from problems in computer vision and robotics. 
+I am a postdoctoral researcher in the [Aromath](https://team.inria.fr/aromath) team at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur). My research focuses on solving structured systems of polynomial equations arising from problems in computer vision and robotics.
 
-I finished my PhD in February 2025 at the [Institute of Applied Geometry](https://ag.jku.at/) at [Johannes Kepler University](https://www.jku.at/) in Linz, under the supervision of [Bert Jüttler](https://ag.jku.at/agpeople.html#jue). My research focused on envelopes of generalised planar swept volumes and their approximation by circular arcs.
+In addition to computational algebraic geometry, my interests include kinematics and geometric modelling, particularly the rational parametrisation of envelopes of moving quadrics and the approximation of envelopes of generalised swept volumes.
 
-<!--<div>
-    <table border="0">
-     <tr>
-       <td> <img src="cat.jpg" width="600"></td> 
-        <td> 
-            
-I am a postdoctoral researcher in the [Aromath](https://team.inria.fr/aromath) team at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur). My research interests lie in computational algebraic geometry, with a focus on solving structured systems of polynomial equations that arise from problems in computer vision and robotics. 
+<!--I finished my PhD in February 2025 at the [Institute of Applied Geometry](https://ag.jku.at/) at [Johannes Kepler University](https://www.jku.at/) in Linz, under the supervision of [Bert Jüttler](https://ag.jku.at/agpeople.html#jue). My research focused on envelopes of generalised planar swept volumes and their approximation by circular arcs.-->
 
-&nbsp;
-
-I finished my PhD in February 2025 at the [Institute of Applied Geometry](https://ag.jku.at/) at [Johannes Kepler University](https://www.jku.at/) in Linz, under the supervision of [Bert Jüttler](https://ag.jku.at/agpeople.html#jue). My research focused on envelopes of generalised planar swept volumes and their approximation by circular arcs.
-        </td>
-     </tr>
-    </table>
-    </div>-->
-
-<!--$x_0 \leq 0$
-
-&nbsp;
-&nbsp;
-
-[ArXiv](http://arxiv.org/a/vrablikova_j_1), [ORCID](https://orcid.org/0000-0002-3008-9275) -->

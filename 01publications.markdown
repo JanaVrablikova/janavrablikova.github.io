@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 permalink: /publications/
-name: Publications
 ---
 
 #### **Preprints**

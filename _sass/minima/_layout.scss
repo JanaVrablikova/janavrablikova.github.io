@@ -124,6 +124,8 @@
  * Site footer
  */
 .site-footer {
+  position: absolute;
+  bottom = 0;
   border-top: 1px solid $border-color-01;
   padding: $spacing-unit 0;
 }

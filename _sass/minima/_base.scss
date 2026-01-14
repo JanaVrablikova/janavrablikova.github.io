@@ -102,12 +102,20 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5 {
   color: $heading-color;
   font-weight: 500;
 }
 
-
+h6 {
+  font-size: 0.7em;   
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  color: $text-color;
+  font-weight: normal;   
+}
 
 /**
  * Links

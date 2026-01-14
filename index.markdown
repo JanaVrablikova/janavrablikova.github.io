@@ -9,5 +9,7 @@ I am a postdoctoral researcher in the [Aromath](https://team.inria.fr/aromath) t
 
 In addition to computational algebraic geometry, my interests include kinematics and geometric modelling, in particular the rational parametrisation of envelopes of moving quadrics and the approximation of envelopes of generalised swept volumes.
 
+<h6> smaller font with math formulas $x_0 \neq 0$ ? </h6>
+
 <!--I finished my PhD in February 2025 at the [Institute of Applied Geometry](https://ag.jku.at/) at [Johannes Kepler University](https://www.jku.at/) in Linz, under the supervision of [Bert Jüttler](https://ag.jku.at/agpeople.html#jue). My research focused on envelopes of generalised planar swept volumes and their approximation by circular arcs.-->
 

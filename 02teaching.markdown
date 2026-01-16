@@ -5,7 +5,7 @@ permalink: /teaching/
 longname: Teaching
 ---
 
-#### **Current**
+<!--#### **Current**
 
 &ndash;
 
@@ -13,7 +13,7 @@ longname: Teaching
 
 &nbsp;
 
-#### **Past**
+#### **Past**-->
 
 **Johannes Kepler University**
 

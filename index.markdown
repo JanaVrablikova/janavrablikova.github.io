@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: homepage
-title: About me
 ---
 
 I am a postdoctoral researcher in the [Aromath](https://team.inria.fr/aromath) team at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur). My research focuses on solving structured systems of polynomial equations arising from problems in computer vision and robotics.

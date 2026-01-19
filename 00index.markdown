@@ -8,8 +8,10 @@ permalink: /
 lognname: About me
 ---
 
-I am a postdoctoral researcher in the [Aromath](https://team.inria.fr/aromath) team at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur). My research focuses on solving structured systems of polynomial equations arising from problems in computer vision and robotics.\
-<h6> In addition to computational algebraic geometry, my interests include kinematics and geometric modelling, in particular the rational parametrisation of envelopes of moving quadrics and the approximation of envelopes of generalised swept volumes. $x_0 \neq 0.$ </h6>
+I am a postdoctoral researcher in the [Aromath](https://team.inria.fr/aromath) team at [Inria Centre at Université Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur). My research focuses on solving structured systems of polynomial equations arising from problems in computer vision and robotics.
+
+In addition to computational algebraic geometry, my interests include kinematics and geometric modelling, in particular the rational parametrisation of envelopes of moving quadrics and the approximation of envelopes of generalised swept volumes.
+
 <!--In addition to computational algebraic geometry, my interests include kinematics and geometric modelling, in particular the rational parametrisation of envelopes of moving quadrics and the approximation of envelopes of generalised swept volumes.-->
 
 <!--<h6> In addition to computational algebraic geometry, my interests include kinematics and geometric modelling, in particular the rational parametrisation of envelopes of moving quadrics and the approximation of envelopes of generalised swept volumes. $x_0 \neq 0.$ </h6>-->

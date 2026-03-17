@@ -14,11 +14,11 @@ longname: Publications
 
 **Lie Group Approach to Envelope Surfaces**, with M. Molnár and Z. Šír, Computer Aided Geometric Design, 2026. [[link]](https://hal.science/hal-05441827)
 
-**Arc Spline Approximation of Envelopes of Evolving Planar Domains**, with B. Jüttler, Journal of Computational and Applied Mathematics, pages 117372, 2026. [[link]](https://doi.org/10.1016/j.cam.2026.117372)
+**Arc Spline Approximation of Envelopes of Evolving Planar Domains**, with B. Jüttler, Journal of Computational and Applied Mathematics, 2026. [[link]](https://doi.org/10.1016/j.cam.2026.117372)
 
-**Interpolation by Polygon Rolling Motions for Approximate Sweep Computation**, with V. Ortler, B. Jüttler and Z. Šír, Journal of Computational and Applied Mathematics, pages 115891, 2024. [[link]](https://doi.org/10.1016/j.cam.2024.115891)
+**Interpolation by Polygon Rolling Motions for Approximate Sweep Computation**, with V. Ortler, B. Jüttler and Z. Šír, Journal of Computational and Applied Mathematics, 2024. [[link]](https://doi.org/10.1016/j.cam.2024.115891)
 
-**Optimizing Elimination Templates by Greedy Parameter Search**, with E. Martyushev and T. Pajdla, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 15754-15764, 2022. [[link]](https://ieeexplore.ieee.org/document/9879688)
+**Optimizing Elimination Templates by Greedy Parameter Search**, with E. Martyushev and T. Pajdla, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [[link]](https://ieeexplore.ieee.org/document/9879688)
 
 <!--**Envelopes of Implicit Surfaces**, with Z. Šír, In Proceedings of the Czech-Slovak Conference on Geometry and Graphics 2020, pages 171-176, Plzeň, 2020.
 

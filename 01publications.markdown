@@ -5,14 +5,14 @@ permalink: /publications/
 longname: Publications
 ---
 
-#### **Preprints**
-
-**Lie Group Approach to Envelope Surfaces**, with M. Molnár and Z. Šír, 2025. [[arXiv]](https://arxiv.org/abs/2511.18973v1)
+<!--#### **Preprints**
 
 &nbsp;
-&nbsp;
+&nbsp;-->
 
 #### **Publications**
+
+**Lie Group Approach to Envelope Surfaces**, with M. Molnár and Z. Šír, Computer Aided Geometric Design, 2026. [[HAL]](https://hal.science/hal-05441827)
 
 **Arc Spline Approximation of Envelopes of Evolving Planar Domains**, with B. Jüttler, Journal of Computational and Applied Mathematics, pages 117372, 2026. [[link]](https://doi.org/10.1016/j.cam.2026.117372)
 

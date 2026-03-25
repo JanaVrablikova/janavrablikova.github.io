@@ -5,15 +5,15 @@ permalink: /teaching/
 longname: Teaching
 ---
 
-<!--#### **Current**
+#### **Current**
 
-&ndash;
+* LS 2026: **[Differential Geometry](https://ag.jku.at/2gesamt_dt.htm)**, teaching assistant
+
+* LS 2026: **[UV Geometrie](https://ag.jku.at/2gesamt_dt.htm)**, teaching assistant 
 
 &nbsp;
 
-&nbsp;
-
-#### **Past**-->
+#### **Past**
 
 **Johannes Kepler University**
 

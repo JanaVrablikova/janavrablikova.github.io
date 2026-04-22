@@ -5,10 +5,12 @@ permalink: /publications/
 longname: Publications
 ---
 
-<!--#### **Preprints**
+#### **Preprints**
+
+**Efficient closed-form approaches for pose estimation using Sylvester forms**, with E. Malis and L. Busé, 2026. [[link]](https://hal.science/hal-05592420)
 
 &nbsp;
-&nbsp;-->
+&nbsp;
 
 #### **Publications**
 

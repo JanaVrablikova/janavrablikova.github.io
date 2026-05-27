@@ -7,9 +7,11 @@ longname: Curriculum vitæ
 
 #### **Positions**
 
-05/2025 - : postdoctoral researcher at [Inria Centre at Université Côte d’Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur)
+03/2025 - : postdoctoral researcher at [Johannes Kepler University](https://www.jku.at/) 
 
-03/2025 - : postdoctoral researcher at [Johannes Kepler University](https://www.jku.at/) (on leave until May 2026)
+05/2025 - 04/2026: postdoctoral researcher at [Inria Centre at Université Côte d’Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur)
+
+03/2025 - 04/2025: postdoctoral researcher at [Johannes Kepler University](https://www.jku.at/) 
 
 03/2022 - 02/2025: research and university assistant at [Johannes Kepler University](https://www.jku.at/)
 

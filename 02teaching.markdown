@@ -7,9 +7,9 @@ longname: Teaching
 
 #### **Current**
 
-* LS 2026: **[Differential Geometry](https://ag.jku.at/2gesamt_dt.htm)**, teaching assistant
+* SS 2026: **[Differential Geometry](https://ag.jku.at/2gesamt_dt.htm)**, teaching assistant
 
-* LS 2026: **[UV Geometrie](https://ag.jku.at/2gesamt_dt.htm)**, teaching assistant 
+* SS 2026: **[UV Geometrie](https://ag.jku.at/2gesamt_dt.htm)**, teaching assistant 
 
 &nbsp;
 

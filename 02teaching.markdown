@@ -7,15 +7,19 @@ longname: Teaching
 
 #### **Current**
 
-* SS 2026: **[Differential Geometry](https://ag.jku.at/2gesamt_dt.htm)**, teaching assistant
+* WS 2026: **[Introduction to Topology](https://ag.jku.at/2gesamt_dt.htm)**, lecture and exercises
 
-* SS 2026: **[UV Geometrie](https://ag.jku.at/2gesamt_dt.htm)**, teaching assistant 
+* WS 2026: **[PhD seminar](https://ag.jku.at/2gesamt_dt.htm)**
 
 &nbsp;
 
 #### **Past**
 
 **Johannes Kepler University**
+
+* SS 2026: **[Differential Geometry](https://ag.jku.at/2gesamt_dt.htm)**, teaching assistant
+
+* SS 2026: **[UV Geometrie](https://ag.jku.at/2gesamt_dt.htm)**, teaching assistant 
 
 * WS 2024: **Computational Geometry**, teaching assistant
 
